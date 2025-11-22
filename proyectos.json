@@ -3,7 +3,11 @@
     "nombreapp": "Emoji Clicker",
     "descripcion": "Juego web interactivo desarrollado con HTML, CSS y JavaScript en el que el jugador debe atrapar emojis buenos y evitar los malos mientras sube de nivel. Incluye diferentes modos de dificultad, enemigos como demonios y bombas, y un sistema de puntuación con metas representadas por trofeos. Tiene animaciones fluidas, efectos visuales de victoria, y es compatible con dispositivos móviles. El objetivo es lograr la mayor puntuación posible alcanzando varios trofeos.",
     "icono": "https://i.imgur.com/kQKfoAV.png",
-    "integrantes": ["Andres De la rue", "Ivan Sterling", "Andres Castillo"],
+    "integrantes": [
+      "Andres De la rue",
+      "Ivan Sterling",
+      "Andres Castillo"
+    ],
     "actividad": "Webintoapp",
     "url": "https://andresdlrg2007.github.io/EMOJI-CLICKER"
   },
@@ -11,7 +15,10 @@
     "nombreapp": "Color Blast",
     "descripcion": "Color Blast es un juego web interactivo desarrollado con HTML, CSS y JavaScript, en el que el jugador debe eliminar bloques de colores iguales haciendo clic en grupos de dos o más del mismo color...",
     "icono": "https://i.imgur.com/8Dh7gBf.png",
-    "integrantes": ["Andres De la rue", "Ivan Sterling"],
+    "integrantes": [
+      "Andres De la rue",
+      "Ivan Sterling"
+    ],
     "actividad": "PWA",
     "url": "https://andresdlrg2007.github.io/pwa-game-color-blast"
   },
@@ -19,7 +26,10 @@
     "nombreapp": "Herencia Futbolera",
     "descripcion": "Herencia Futbolera es una aplicación que permite a los aficionados del fútbol explorar la historia de los clubes más emblemáticos del mundo mediante sus camisetas históricas...",
     "icono": "https://i.imgur.com/CETFopi.png",
-    "integrantes": ["Andres De la rue", "Ivan Sterling"],
+    "integrantes": [
+      "Andres De la rue",
+      "Ivan Sterling"
+    ],
     "actividad": "Webview original",
     "url": "https://andresdlrg2007.github.io/Herencia-Futbolera"
   },
@@ -27,8 +37,30 @@
     "nombreapp": "Star Wars Encyclopedia",
     "descripcion": "Enciclopedia de Star Wars con datos esenciales y un minijuego estilo Wordle donde adivinas personajes...",
     "icono": "https://i.imgur.com/ab0Mqa4.png",
-    "integrantes": ["Andres De la rue"],
+    "integrantes": [
+      "Andres De la rue"
+    ],
     "actividad": "Webview con API – individual",
     "url": "https://andresdlrg2007.github.io/app-de-starwars"
+  },
+  {
+    "nombreapp": "Lista de tareas remota",
+    "descripcion": "Una app de tareas con sincronización en tiempo real mediante Firebase, disponible como APK y versión web. Permite crear, ver y organizar pendientes desde cualquier dispositivo con actualización inmediata y almacenamiento en la nube.",
+    "icono": "https://i.imgur.com/xwkH4Se.png",
+    "integrantes": [
+      "Andres De la rue"
+    ],
+    "actividad": "Firebase (proyecto personal)",
+    "url": "https://andresdlrg2007.github.io/app-de-tareas/inicio_tareas.html"
+  },
+  {
+    "nombreapp": "Trivia musical",
+    "descripcion": "Una app de trivia musical que obtiene datos de una API externa para generar preguntas sobre canciones, artistas y letras. Presenta una interfaz ligera y dinámica que permite responder en tiempo real y practicar consumo de servicios REST.",
+    "icono": "https://i.imgur.com/JhWjcI1.png",
+    "integrantes": [
+      "Andres De la rue"
+    ],
+    "actividad": "Capacitor",
+    "url": "https://drive.google.com/file/d/1l3czYl_MHWkhEZO8TCn7rDH4wNu89Id9/view?usp=drive_link"
   }
 ]
