@@ -62,5 +62,38 @@
     ],
     "actividad": "Capacitor",
     "url": "https://drive.google.com/file/d/1l3czYl_MHWkhEZO8TCn7rDH4wNu89Id9/view?usp=drive_link"
-  }
+  },
+  {
+  "nombreapp": "SpendControl",
+  "descripcion": "Una aplicación de finanzas personales que permite registrar montos de ingresos y gastos y gestionarlos fácilmente. El usuario puede agregar nuevos movimientos, editarlos o eliminarlos cuando sea necesario, manteniendo un historial actualizado que le ayuda a entender en qué se está usando su dinero y llevar un control más ordenado de sus finanzas.",
+  "icono": "https://i.imgur.com/szMgEWn.png",
+  "integrantes": [
+    "Andres de la rue",
+    "Jaime Poveda"
+  ],
+  "actividad": "Capacitor - parejas",
+  "url": "https://drive.google.com/file/d/1pOSTlnJcg1rVf6DBEvpZ57MF5s_GXtpp/view?usp=drive_link"
+},
+{
+  "nombreapp": "Instragram Supabase",
+  "descripcion": "Una aplicación tipo Instagram construida con Supabase, donde los usuarios pueden crear una cuenta, subir sus propias fotos y ver las publicaciones de otras personas en un feed compartido. Permite dejar comentarios, dar ‘like’, revisar el perfil personal con todas las fotos publicadas y gestionar el propio contenido, incluyendo la posibilidad de eliminar únicamente las fotos que pertenecen al usuario.",
+  "icono": "https://i.imgur.com/t1UsXsI.png",
+  "integrantes": [
+    "Andres de la rue",
+    "Jaime Poveda",
+    "Ivan Sterling"
+  ],
+  "actividad": "Capacitor dashboard – réplica",
+  "url": "https://drive.google.com/file/d/1d2CT5amBY3R-1JVxTD_i_asBG7wMfJod/view?usp=drive_link"
+},
+{
+  "nombreapp": "Yu-Gi-Oh! app",
+  "descripcion": "Una aplicación dedicada a jugadores de Yu-Gi-Oh! que permite explorar el catálogo de cartas, consultar detalles completos de cada una y construir mazos personalizados para distintas estrategias o eventos. La app utiliza Firebase para almacenar y sincronizar en la nube los mazos creados, de modo que el usuario puede acceder a ellos y gestionarlos fácilmente",
+  "icono": "https://i.imgur.com/RcOtJQk.png",
+  "integrantes": [
+    "Andres de la rue"
+  ],
+  "actividad": "Capacitor Firebase – individual",
+  "url": "https://drive.google.com/file/d/1ymWqFMpU4MEpi8QThjHznIcA9E0uUj05/view?usp=drive_link"
+}
 ]
